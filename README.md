@@ -12,8 +12,8 @@ Staged means that you have marked a modified file in its current version to go i
 ```http
   # Basics
 git --version                                             # Know about the git version
-git config --global user.name "Prasad Dalavi"             # Set User name
-git config --global user.email prasad01dalavi@gmail.com   # and email
+git config --global user.name "Gayatri Ladkat"            # Set User name
+git config --global user.email ladkatgayatri@gmail.com    # and email
 git config --list                                         # Checking your settings
 git config user.name                                      # Know the current user name
 git config user.email                                     # Know the current user email
