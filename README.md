@@ -10,7 +10,7 @@ Modified means that you have changed the file but have not committed it to your 
 Staged means that you have marked a modified file in its current version to go into your next commit snapshot.
 
 ```http
-  # Basics
+# Basics
 git --version                                             # Know about the git version
 git config --global user.name "Gayatri Ladkat"            # Set User name
 git config --global user.email ladkatgayatri@gmail.com    # and email
