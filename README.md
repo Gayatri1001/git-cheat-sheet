@@ -34,7 +34,7 @@ git add forgotten_file                # Redo the commit with forgotten additiona
 git commit --amend                    # Apply the last commit message
 git log                               # Get the log of commits 
 git log --graph                       # Get the graphical representation
-git log --author="Prasad Dalavi"      # Gives me the commits for the particular author
+git log --author="Gayatri Ladkat"     # Gives me the commits for the particular author
 git diff                              # Show me the changes made before adding to staging area 
 git checkout second.txt               # If I want to discard the changes (before going to staging area)
 
